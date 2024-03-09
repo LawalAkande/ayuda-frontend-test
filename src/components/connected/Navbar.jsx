@@ -34,7 +34,7 @@ const Navbar = () => {
         <div className="hidden xl:flex flex-row items-center space-x-4">
           <Button to="/signin" title="Log in" className="text-white" arrow="" />
           <Button
-            to=""
+            to="/signup"
             title="Sign up"
             className="text-white border border-white px-4 md:px-8 py-3 rounded-3xl"
             arrow=""

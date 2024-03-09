@@ -33,7 +33,7 @@ const Pages = () => {
           }
         />
         <Route
-          path="/singup"
+          path="/signup"
           element={
             <>
               <Helmet>

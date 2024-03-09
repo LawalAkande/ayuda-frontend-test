@@ -34,7 +34,7 @@ const Signup = () => {
         <img src={logo} alt="" />
       </Link>
       <div className="space-y-1.5 md:space-y-3">
-        <h3 className="font-bold font-brown_regular text-2xl md:text-4xl">
+        <h3 className="font-bold font-brown_regular text-2xl md:text-4xl text-center">
           Sign Up
         </h3>
         <p className="font-ttnormspro_extra_light md:text-lg pb-6">

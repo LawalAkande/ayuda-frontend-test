@@ -41,7 +41,7 @@ const Signin = () => {
         </h3>
         <p className="font-ttnormspro_extra_light md:text-lg">
           Dont have an account yet?{" "}
-          <Link to="/singup" className="text-PersianGreen">
+          <Link to="/signup" className="text-PersianGreen">
             Sign up
           </Link>
         </p>
