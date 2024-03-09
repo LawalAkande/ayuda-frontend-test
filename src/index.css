@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Brown-Regular";
+  src: url(./assets/fonts/brown/Brown-Regular.ttf);
+}
+
+@font-face {
+  font-family: "TTNormsPro-Light";
+  src: url(./assets/fonts/ttnormspro/TTNormsPro-Light.ttf);
+}
+
+@font-face {
+  font-family: "TTNormsPro-ExtraLight";
+  src: url(./assets/fonts/ttnormspro/TTNormsPro-ExtraLight.ttf);
+}
+
+@font-face {
+  font-family: "TTNormsPro-Regular";
+  src: url(./assets/fonts/ttnormspro/TTNormsPro-Regular.ttf);
+}
+
+body {
+  font-family: "TTNormsPro-Regular";
+}
+
